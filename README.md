@@ -2,6 +2,17 @@
 
 Loom Recording Link: [Insert Link]
 
+EXAMPLE 1 LINK 
+https://www.loom.com/share/4697419868f0414bad9c483ceaec1d3f?sid=15dfd307-cb12-44dc-b827-93a33f225501
+
+EXAMPLE 2 LINK
+
+
+
+
+
+
+
 # Project Overview
 
 In this project, you will be presented with two JavaScript code examples, each demonstrating a different programming paradigm: imperative and declarative. Your task is to analyse these examples and determine which one follows an imperative programming style and which one follows a declarative programming style. 
